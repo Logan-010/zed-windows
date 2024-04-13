@@ -1,8 +1,11 @@
 # INFO
 Fork of zed with windows binaries, I was able to build a working copy on my windows machiene and decided to share the love. Full fork of zed.
+No code has been modified, this is just a binary for windows since the zed repo does not provide one.
 Linux binaries still not avalible.
 
 I HAVE ZERO AFFILIATION WITH THE ZED TEAM.
+
+IN ADDITION because windows is not officially supported, I have no responsability for any bugs or crashes. Please submit them to the OFFICIAL zed repo.
 
 # Building
 BE SURE TO HAVE BOTH `git` AND `cargo` INSTALLED
