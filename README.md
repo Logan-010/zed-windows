@@ -7,6 +7,8 @@ I HAVE ZERO AFFILIATION WITH THE ZED TEAM.
 
 IN ADDITION because windows is not officially supported, I have no responsability for any bugs or crashes. Please submit them to the OFFICIAL zed repo.
 
+with that said, download the release [HERE](https://github.com/Logan-010/zed-windows/releases/tag/v0.132.0)
+
 # Building
 BE SURE TO HAVE BOTH `git` AND `cargo` INSTALLED
 ```sh
