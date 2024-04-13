@@ -1,3 +1,20 @@
+# INFO
+Fork of zed with windows binaries, I was able to build a working copy on my windows machiene and decided to share the love. Full fork of zed.
+Linux binaries still not avalible.
+
+I HAVE ZERO AFFILIATION WITH THE ZED TEAM.
+
+# Building
+BE SURE TO HAVE BOTH `git` AND `cargo` INSTALLED
+```sh
+git clone https://github.com/Logan-010/zed-windows.git
+cd zed-windows
+git submodule update --init
+cargo build --release
+```
+Thats it. Find the binary in target/release/Zed.exe
+Now back to Zed's README.
+
 # Zed
 
 [![CI](https://github.com/zed-industries/zed/actions/workflows/ci.yml/badge.svg)](https://github.com/zed-industries/zed/actions/workflows/ci.yml)
